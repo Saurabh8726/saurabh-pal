@@ -3,7 +3,7 @@
 I am a passionate developer looking to build cool projects and learn new technologies.
 
 ### 🛠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript python bootstrap django
+- **Languages:** HTML, CSS, JavaScript , Python , Bootstrap , Django
 - **Tools:** VS Code, Git, GitHub
 
 ### 🔭 Current Focus
@@ -13,4 +13,4 @@ I am a passionate developer looking to build cool projects and learn new technol
 
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saurabh-pal-304108370) | [Email](sauarabhpal114@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saurabh-pal-304108370) |
