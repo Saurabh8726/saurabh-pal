@@ -1,13 +1,12 @@
-# Hi, I'm Saurabh Pal! 👋
+Hi there, I'm Saurabh Pal! 👋
+I am a passionate developer looking to build cool projects and learn new technologies.
 
-I'm an **IT Developer** who loves building web applications using Python and Django.
-
-### 🛠 Skills:
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Python, Django
-
-### 🚀 Projects:
-- Working on building clean and functional web apps.
-
+🛠 Tech Stack
+Languages: HTML, CSS, JavaScript python bootstrap django
+Tools: VS Code, Git, GitHub
+🔭 Current Focus
+🌱 I’m currently learning python django.
+👯 I’m looking to collaborate on Open Source projects.
+🥅 2026 Goals: Contribute more to the dev community.
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saurabh-pal-304108370) | [Email](sauarabhpal114@gmail.com)
